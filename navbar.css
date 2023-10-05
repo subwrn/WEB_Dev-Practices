@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #171717;
+}
+nav{
+    padding : 50px;
+    background-color: #222223;
+    color: #e9edfa;
+    font-size: 20px;
+}
+nav .logo p{
+    font-family: ubuntu;
+    position:fixed;
+}
+
+nav li{
+    display: inline-block;
+    list-style: none;
+    margin-right: 70px;
+    text-decoration: none;
+}
+.logo{
+margin-left: 288px;
+
+
+}
+.about{
+    margin-right: 200px;
+    float: right;
+    
+}
+a:hover{
+   
+    border-radius: 3px;
+    border: 2px solid white;
+}
+.about ul li a{
+    text-decoration: none;
+    color: #e9edfa;
+}
+.logo p a{
+    text-decoration: none;
+    color:#e9edfa;
+}
+/* 
+about me section */
+.name{
+    border: 4px solid #e9edfa;
+    font-size: 30px;
+    font-family: ubuntu;
+    color: #e9edfa;
+    width: 400px;
+    height: 400px;
+    margin: 50px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    border-radius: 1px;
+    
+}
+.name:hover{
+    border: 5px solid #222223;
+    /* color: #222223; */
+    cursor: pointer;
+}
+.name p{
+    padding-top: 40%;
+    text-align: center;
+}

@@ -1,0 +1,33 @@
+body{
+    background-color:  rgb(137, 21, 40);
+}
+#firstpara{
+    background-color:  rgb(199, 67, 44);
+}
+#firstheading{
+    border: 2px solid rgb(28, 193, 135);
+    color: rgba(25, 236, 208, 0.916);
+    border-radius: 7px;
+    border-top: 3px;
+    border-top-color: pink;
+    line-height: 234px;
+    background-color: rgba(126, 9, 181, 0.492);
+    border-style: dotted;
+    display: inline;
+    font-size: 50px;
+}
+.firstdiv{
+    display: inline-block;
+    position: relative;
+}
+.firstdiv p{
+    color : gray;
+    font-size: 50px;
+    border: 5px solid darkgoldenrod;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 2px;
+    background-image: url('random.jpg');
+    display: inline;
+    background-size: 100% 100%;
+
+}

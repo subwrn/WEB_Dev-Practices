@@ -1,0 +1,24 @@
+h1{
+    color : green;
+    border: 4px;
+    background-color: yellow;
+    border-radius: black;
+}
+
+p{
+    color : tomato;
+    background-color: darkcyan;
+    border: 4px dotted black;
+    border-radius: 5px;
+
+    
+
+}
+.hello{
+    background-color: rgb(41, 185, 185);
+    color: tomato;
+}
+#green, #pink{
+    background-color: blueviolet;
+    color: black;
+}

@@ -1,0 +1,15 @@
+*{
+    background-color: rgb(219, 150, 150);
+}
+.container{
+    width: 900px;
+    border: 5px yellow solid;
+    padding: 10px;
+    margin: auto;
+    
+}
+.country{
+    border: 3px solid black;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
