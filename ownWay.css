@@ -1,0 +1,63 @@
+img{
+    height: 100%;
+    max-width: 100%;
+    display: block;
+}
+#first{
+    top: 846px;
+  position: relative;
+  border: 2px solid black;
+  height: 216px;
+  width: 490px;
+  left: 118px;
+  text-align: center;
+  font-size: 90px;
+  
+}
+
+  #two{
+    /* border:2px solid black;
+    position: relative;
+    height: 40px;
+    width: 40px;
+    top:40px;
+    left: 30px; */
+    border: 2px solid black;
+  position: relative;
+  height: 48px;
+  width: 93px;
+  top: 508px;
+  left: 1019px;
+  }
+#three{
+    border: 2px solid black;
+    position: relative;
+    height: 41px;
+    width: 93px;
+    top: 564px;
+    left: 1019px
+}
+#four{
+    border: 2px solid black;
+  position: relative;
+  height: 48px;
+  width: 93px;
+  top: 712px;
+  left: 1019px;
+}
+#five{
+    border: 2px solid black;
+  position: relative;
+  height: 48px;
+  width: 93px;
+  top: 762px;
+  left: 1019px;
+}
+.box{
+    background-color: black;
+    /* background-image: linear-gradient( #010514, #434343) ; */
+    filter: blur(10px);
+    color: white;
+
+    
+}

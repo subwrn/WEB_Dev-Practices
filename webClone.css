@@ -1,0 +1,51 @@
+*{
+    margin: 10px;
+    background-color:#f5f4f0 ;
+    font-family: forma-djr-text;
+}
+nav{
+    margin: 10px;
+    padding: 10px;
+}
+.logo
+{
+    display: inline-block;
+}
+
+.lists{
+    
+    float: right;
+}
+li{
+    display: inline-block;
+    font-size: 14.166px;
+    margin: 0px 0px 0px 50px;
+   
+    font-weight: bold;
+}
+li #cont{
+    margin-right: 40px;
+}
+ul{
+    list-style: none; 
+    
+}
+.lists ul li a{
+    font-family: forma-djr-text;
+    color: black;
+   text-decoration: none;
+    
+}
+/* .img{
+    border: 3px solid darkblue;
+    height: 550px;
+    width: 700px;
+    object-fit: cover;
+    background-image: url(pic1.png);
+    background-size: cover;
+} */
+.img{
+    height: 450px;
+    width: 750px;
+    margin:30px 0px 100px 70px;
+}
